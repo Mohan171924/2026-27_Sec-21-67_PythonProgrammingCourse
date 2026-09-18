@@ -1,4 +1,3 @@
-#example for compound interest
 principle = float(input("enter the principle amount"))
 rate = float(input("enter the rate of interest"))
 time = float(input("enter the time in years "))
